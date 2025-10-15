@@ -1,0 +1,13 @@
+name: graphql
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/d343d962-c54b-46ad-90ac-90bed4788a48
+description: GraphQL (TypeScript) module for Nest framework (node.js) 🍷
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
